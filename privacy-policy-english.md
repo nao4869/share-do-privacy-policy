@@ -1,6 +1,8 @@
 1. Company name, etc.
 
-Name: Line-like notepad app For contact information, please refer to the contact information below.
+Name: ShareDo - Shared todo list
+
+For contact information, please refer to the contact information below.
 
 2. User information acquired The user information acquired by this application is as follows.
 
@@ -42,4 +44,4 @@ Corresponding user information items To help us improve our services, develop ne
 
 The Company shall review the operational status regarding the handling of user information as appropriate and strive for continuous improvement, and may change this policy as necessary. If you do, we will notify you in an appropriate manner. In addition, if there is a change in the recipient of the third party provided in Section 6, we will obtain your consent.
 
-[Established April 13, 2020]
+[Established Feburuary 13, 2021]
